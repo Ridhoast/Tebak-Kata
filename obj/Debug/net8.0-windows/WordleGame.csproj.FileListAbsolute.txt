@@ -1,0 +1,14 @@
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.AssemblyInfoInputs.cache
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.AssemblyInfo.cs
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.csproj.CoreCompileInputs.cache
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\bin\Debug\net8.0-windows\WordleGame.exe
+C:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\bin\Debug\net8.0-windows\WordleGame.deps.json
+C:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\bin\Debug\net8.0-windows\WordleGame.runtimeconfig.json
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\bin\Debug\net8.0-windows\WordleGame.dll
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\bin\Debug\net8.0-windows\WordleGame.pdb
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.dll
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\refint\WordleGame.dll
+c:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.pdb
+C:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\WordleGame.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\tugascs\c#\WordleGame\obj\Debug\net8.0-windows\ref\WordleGame.dll
