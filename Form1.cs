@@ -18,7 +18,7 @@ namespace TebakKataGame
  private System.Windows.Forms.TextBox txtNamaPemain;
  private System.Windows.Forms.Label lblNamaPemain; 
         private List<int> recordSkor = new List<int>(); // Menyimpan skor dari 3 permainan terakhir
-
+        // @rdhoast
         public Form1()
         {
             InitializeComponent();
